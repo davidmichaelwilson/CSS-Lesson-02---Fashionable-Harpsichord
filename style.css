@@ -1,0 +1,52 @@
+body {
+  font-family: arial;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 48px;
+  color: #2e7ad3;
+  text-align: center;
+  margin: 45px auto; 
+}
+
+h2 {
+  font-size: 32px;
+  color: #104c90;
+  padding-top: 0px;
+}
+
+.box {
+  background: #f1f1f1;
+  padding: 5px 25px 10px; 
+  width: 500px; 
+  height: auto;
+  margin: 10px auto 25px;
+  
+}
+
+img {
+  width: 100%; 
+  
+}
+
+p {
+  font-size: 16px; 
+}
+
+/* ===== URL STYLES ===== */
+a:link {
+  color: #ff8000;
+}
+a:visited {
+  color: darkolivegreen;
+}
+a:focus {
+  color: darkgoldenrod;
+}
+a:hover {
+  color: indianred;
+}
+a:active {
+  color: rebeccapurple;
+}
